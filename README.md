@@ -1,6 +1,6 @@
 measuring_literacy
 ========
-Machine-rated measure of literacy from vocal recording of reading prompts
+Machine-rated measurement of literacy from vocal recordings of reading prompts
  ------
 
 Install:
