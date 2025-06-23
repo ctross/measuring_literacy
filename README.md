@@ -33,6 +33,8 @@ Then check that you have the R dependencies, install with install.packages() if 
  library(MuMIn)          # for data dredging
 ```
 
+You will also need to have ffmpeg on your system path: https://ffmpeg.org//download.html#build-windows
+
 Run:
 --------------
 1) Download this repository as zip.
