@@ -32,3 +32,11 @@ Then check that you have the R dependencies, install with install.packages() if 
  library(broom)          # for latex output
  library(MuMIn)          # for data dredging
 ```
+
+Run:
+--------------
+1) Download this repository as zip.
+2) Unzip it.
+3) Then paste your WAV or MP3 of trimmed audio into the audio/trimmed folder.
+4) Set the path to your local directory in the main.py and workflow.R files.
+5) Follow the workflow in the workflow.R file.
