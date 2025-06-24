@@ -1,7 +1,11 @@
 measuring_literacy
 ========
 Machine-rated measurement of literacy from vocal recordings of reading prompts
- ------
+------
+
+This repository contains two folders. The first is the pipeline that researchers can use to process their own vocal recordings (The pipeline can be used under the BSD-3-Clause license). The second contains the data and code needed to reproduce our results in the manuscript (License agreement for the data: The data included here are provide only so that readers can replicate our analyses. For permission to use the data for other purposes, please contact C.T. Ross directly). 
+
+To use our pipeline, make sure that you have R and Python installed, and just download this repository. Then, install the dependencies following the instructions below.
 
 Install:
 --------------
